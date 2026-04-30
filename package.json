@@ -13,5 +13,13 @@
   "type": "commonjs",
   "dependencies": {
     "json-server": "^1.0.0-beta.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridhakanda/assignment-08-dataset.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faridhakanda/assignment-08-dataset/issues"
+  },
+  "homepage": "https://github.com/faridhakanda/assignment-08-dataset#readme"
 }
