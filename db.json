@@ -194,6 +194,19 @@
             "description": "Small, active Barbari goat, very healthy and budget-friendly.",
             "image": "https://i.postimg.cc/goat4.png",
             "category": "Small"
+        },
+        {
+            "id": 16,
+            "name": "Barbari Shorty",
+            "type": "Goat",
+            "breed": "Barbari",
+            "price": 15000,
+            "weight": 18,
+            "age": 1,
+            "location": "Comilla",
+            "description": "Small, active Barbari goat, very healthy and budget-friendly.",
+            "image": "https://i.postimg.cc/goat4.png",
+            "category": "Small"
         }
     ]
 }
