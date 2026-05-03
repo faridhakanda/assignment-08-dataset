@@ -10,7 +10,7 @@
             "age": 3,
             "location": "Bogura",
             "description": "Healthy deshi cow suitable for Qurbani. Well fed with natural grass.",
-            "image": "https://i.postimg.cc/cow1.png",
+            "image": "https://i.ibb.co.com/GfGhRDFV/cow1.jpg",
             "category": "Large"
         },
         {
@@ -23,7 +23,7 @@
             "age": 1.5,
             "location": "Kushtia",
             "description": "Premium quality Black Bengal goat, known for excellent meat quality.",
-            "image": "https://i.postimg.cc/goat1.png",
+            "image": "https://i.ibb.co.com/rRt7RJ61/goat1.jpg",
             "category": "Small"
         },
         {
@@ -36,7 +36,7 @@
             "age": 5,
             "location": "Dhaka",
             "description": "Majestic camel imported for premium Qurbani markets.",
-            "image": "https://i.postimg.cc/camel1.png",
+            "image": "https://i.ibb.co.com/XZY68BJb/camel1.jpg",
             "category": "Large"
         },
         {
@@ -49,7 +49,7 @@
             "age": 4,
             "location": "Nilphamari",
             "description": "Strong and healthy buffalo, raised in open pastures.",
-            "image": "https://i.postimg.cc/buffalo1.png",
+            "image": "https://i.ibb.co.com/YF7Qz215/buffalo1.jpg",
             "category": "Large"
         },
         {
@@ -62,7 +62,7 @@
             "age": 2,
             "location": "Rajshahi",
             "description": "Authentic fat-tailed sheep (Dumba) with thick wool and healthy weight.",
-            "image": "https://i.postimg.cc/dumba1.png",
+            "image": "https://i.ibb.co.com/5grqx9Mf/goat2.jpg",
             "category": "Medium"
         },
         {
@@ -75,7 +75,7 @@
             "age": 3.5,
             "location": "Chittagong",
             "description": "High-breed Sindhi bull, impressive stature and very energetic.",
-            "image": "https://i.postimg.cc/cow2.png",
+            "image": "https://i.ibb.co.com/gc3tD70/cow2.jpg",
             "category": "Large"
         },
         {
@@ -88,7 +88,7 @@
             "age": 2,
             "location": "Sirajganj",
             "description": "Tall, long-eared Jamunapari goat, ideal for breeding or sacrifice.",
-            "image": "https://i.postimg.cc/goat2.png",
+            "image": "https://i.ibb.co.com/fz1jN2D9/cow3.jpg",
             "category": "Medium"
         },
         {
@@ -101,7 +101,7 @@
             "age": 2,
             "location": "Mymensingh",
             "description": "Affordable small-sized cow for a small family Qurbani.",
-            "image": "https://i.postimg.cc/cow3.png",
+            "image": "https://i.ibb.co.com/5xTzGxMQ/cow4.jpg",
             "category": "Small"
         },
         {
@@ -114,7 +114,7 @@
             "age": 4,
             "location": "Pabna",
             "description": "Giant Brahman cross bull, massive weight and muscle definition.",
-            "image": "https://i.postimg.cc/cow4.png",
+            "image": "https://i.ibb.co.com/LDjq2v2j/camel2.jpg",
             "category": "Large"
         },
         {
@@ -127,7 +127,7 @@
             "age": 3,
             "location": "Bhola",
             "description": "Well-tempered river buffalo, healthy and disease-free.",
-            "image": "https://i.postimg.cc/buffalo2.png",
+            "image": "https://i.ibb.co.com/cc0mGq17/camel3.jpg",
             "category": "Medium"
         },
         {
@@ -140,7 +140,7 @@
             "age": 2.5,
             "location": "Jessore",
             "description": "Strong Beetal goat with beautiful spots and high meat yield.",
-            "image": "https://i.postimg.cc/goat3.png",
+            "image": "https://i.ibb.co.com/5grqx9Mf/goat2.jpg",
             "category": "Medium"
         },
         {
@@ -153,60 +153,9 @@
             "age": 2,
             "location": "Dhaka",
             "description": "Premium fat-tailed sheep with significant fat reserves.",
-            "image": "https://i.postimg.cc/dumba2.png",
+            "image": "https://i.ibb.co.com/0yjyTbS4/buffalo2.jpg",
             "category": "Medium"
-        },
-        {
-            "id": 13,
-            "name": "Royal Camel",
-            "type": "Camel",
-            "breed": "Bactrian Cross",
-            "price": 580000,
-            "weight": 700,
-            "age": 6,
-            "location": "Sylhet",
-            "description": "Rare large-framed camel, perfect for a high-profile sacrifice.",
-            "image": "https://i.postimg.cc/camel2.png",
-            "category": "Large"
-        },
-        {
-            "id": 14,
-            "name": "Pabna Milk Cow",
-            "type": "Cow",
-            "breed": "Pabna Breed",
-            "price": 75000,
-            "weight": 180,
-            "age": 2.5,
-            "location": "Pabna",
-            "description": "Healthy medium-sized cow, raised on organic feed.",
-            "image": "https://i.postimg.cc/cow5.png",
-            "category": "Medium"
-        },
-        {
-            "id": 15,
-            "name": "Barbari Shorty",
-            "type": "Goat",
-            "breed": "Barbari",
-            "price": 15000,
-            "weight": 18,
-            "age": 1,
-            "location": "Comilla",
-            "description": "Small, active Barbari goat, very healthy and budget-friendly.",
-            "image": "https://i.postimg.cc/goat4.png",
-            "category": "Small"
-        },
-        {
-            "id": 16,
-            "name": "Barbari Shorty",
-            "type": "Goat",
-            "breed": "Barbari",
-            "price": 15000,
-            "weight": 18,
-            "age": 1,
-            "location": "Comilla",
-            "description": "Small, active Barbari goat, very healthy and budget-friendly.",
-            "image": "https://i.postimg.cc/goat4.png",
-            "category": "Small"
         }
+        
     ]
 }
